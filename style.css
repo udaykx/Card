@@ -1,0 +1,56 @@
+#card {
+    padding: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    height: 405px;
+    width: 250px;
+    background-color: white;
+}
+img {
+    border-radius: 10px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+span {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: rgb(130, 130, 130);
+    font-size: x-small;
+    font-family: Arial;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: inline-flex;
+}
+h2 {
+    font-family: system-ui;
+    color: rgb(74, 74, 74);
+}
+p {
+    font-size: small;
+    line-height: 20px;
+    font-family: arial;
+    color: rgba(0, 0, 0, 0.384);
+}
+button {
+    border-radius: 30px;
+    margin: auto;
+    
+    height: 35px;
+    width: 100px;
+    background-color: rgb(222, 239, 255);
+    color: rgb(25, 126, 249);
+    font-weight: bold;
+    border-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    margin-top: 150px;
+    background-color: rgb(226, 232, 232);
+    display: flex;
+    justify-content: center;
+
+}
